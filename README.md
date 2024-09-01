@@ -15,6 +15,8 @@ You can click the Preview link to take a look at your changes.
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3.9-blue%3Flogo%3Dpython)?style=flat&logo=Python&logoColor=blue" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/flask-2.0.1-black%3Flogo%3Dflask?style=flat&logo=Python&logoColor=blue">
+
 
 
 </p>
